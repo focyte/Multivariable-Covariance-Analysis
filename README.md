@@ -74,6 +74,7 @@ The coefficients are not large, but this could be explained by several factors i
  - Not all genes in the Buffa Score are HIF1A dependent
  - Other transcription factors, such as HIF2A, regulate gene expression in response to hypoxia
  - The model didn't include VHL protein, an important part of this regulatory process
+
 The covariance method shows that HIF1A has a very strong contribution to R2, explaining 74.6% of the model.
 
 <img src="https://raw.githubusercontent.com/focyte/Multivariable-Covariance-Analysis/refs/heads/main/R2Graph.jpg" alt="R2_graph" width="500"/>
