@@ -70,9 +70,14 @@ The following steps were taken to prepare the data:
 
 The results reflect the known biological roles of the proteins HIF1A, LIMD1, and PHD2 in the regulation of hypoxic gene expression.
 HIF1A protein expression is positively associated with hypoxic gene expression (Buffa) score, whereas LIMD1 and PHD2 are negatively associated.
+The coefficients are not large, but this could be explained by several factors including:
+ - Not all genes in the Buffa Score are HIF1A dependent
+ - Other transcription factors, such as HIF2A, regulate gene expression in response to hypoxia
+ - The model didn't include VHL protein, an important part of this regulatory process
 The covariance method shows that HIF1A has a very strong contribution to R2, explaining 74.6% of the model.
 
-![R2_graph](https://raw.githubusercontent.com/focyte/Multivariable-Covariance-Analysis/refs/heads/main/R2Graph.jpg)
+<img src="https://raw.githubusercontent.com/focyte/Multivariable-Covariance-Analysis/refs/heads/main/R2Graph.jpg" alt="R2_graph" width="500"/>
+
 
 
 
