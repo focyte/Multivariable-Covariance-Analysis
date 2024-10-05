@@ -27,6 +27,7 @@ The following steps were taken to prepare the data:
 1. Loading Data
 - RNAseq data was loaded from the provided file, and relevant columns corresponding to selected cell lines were filtered.
 - Proteomics data for HIF1A, PHD2, and LIMD1 was loaded from individual CSV files, with columns renamed for consistency and merged into a combined dataframe.
+- The protein VHL was not included in the model because there were a large number of cell lines where data was missing for this protein.
 2. Filtering and Merging RNAseq Data
 - The RNAseq data was filtered to retain only relevant genes and cell lines, and merged with gene annotations to facilitate downstream analyses.
 - RNAseq data was reshaped into a form suitable for modeling, and finally merged with proteomics data to create the full dataset.
@@ -66,6 +67,11 @@ The following steps were taken to prepare the data:
 - Plots: coefficients_plot.pdf, R2_plot.pdf
 
 ## Results
+
+The results reflect the known biological roles of the proteins HIF1A, LIMD1, and PHD2 in the regulation of hypoxic gene expression.
+HIF1A protein expression is positively associated with hypoxic gene expression (Buffa) score, whereas LIMD1 and PHD2 are negatively associated.
+The covariance method shows that HIF1A has a very strong contribution to R2, explaining 74.6% of the model.
+
 ![R2_graph](https://raw.githubusercontent.com/focyte/Multivariable-Covariance-Analysis/refs/heads/main/R2Graph.jpg)
 
 
