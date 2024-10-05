@@ -65,3 +65,8 @@ The following steps were taken to prepare the data:
 - Combined Results: results.csv
 - Plots: coefficients_plot.pdf, R2_plot.pdf
 
+## Results
+![R2_graph](https://github.com/focyte/Multivariable-Covariance-Analysis/blob/main/R2Graph.jpg?raw=true)
+
+
+
