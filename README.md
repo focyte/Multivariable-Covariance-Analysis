@@ -66,7 +66,7 @@ The following steps were taken to prepare the data:
 - Plots: coefficients_plot.pdf, R2_plot.pdf
 
 ## Results
-![R2_graph](https://github.com/focyte/Multivariable-Covariance-Analysis/blob/main/R2Graph.jpg?raw=true)
+![R2_graph]([https://github.com/focyte/Multivariable-Covariance-Analysis/blob/main/R2Graph.jpg?raw=true](https://raw.githubusercontent.com/focyte/Multivariable-Covariance-Analysis/refs/heads/main/R2Graph.jpg))
 
 
 
