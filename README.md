@@ -6,7 +6,7 @@ For instance, in the paper "FOXA1 regulates alternative splicing in prostate can
 Here, I apply covariance modeling to explore the relationship between key protein components of the HIF1A hypoxic pathway and their role in predicting gene expression levels related to hypoxia.
 
 ## Example Data
-This project draws on data from my research during my postdoctoral position in the group of Professor Tyson V Sharp, where we investigated the role of the tumor suppressor gene LIMD1 in cancer. LIMD1, along with PHD2 and VHL, plays a role in the proteasomal degradation of HIF1A protein. HIF1A is a transcription factor responsible for the cellular response to low oxygen levels (hypoxia). Loss of LIMD1 leads to stabilization of HIF1A protein and increased transcription of HIF1A-regulated genes. I contributed to a publication that revealed a HIF-1–LIMD1 negative regulatory feedback mechanism in lung cancer (Figure 1).
+This project draws on data from my research during my postdoctoral position in the group of Professor Tyson V Sharp, where we investigated the role of the tumor suppressor gene LIMD1 in cancer. LIMD1, along with PHD2 and VHL, plays a role in the proteasomal degradation of HIF1A protein. HIF1A is a transcription factor responsible for the cellular response to low oxygen levels (hypoxia). Loss of LIMD1 leads to stabilization of HIF1A protein and increased transcription of HIF1A-regulated genes. I contributed to a publication that revealed a HIF-1–LIMD1 negative regulatory feedback mechanism in lung cancer:
 
 ![HIF‐1–LIMD1-model](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6079541/bin/EMMM-10-e8304-g013.jpg)
 
