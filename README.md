@@ -22,7 +22,7 @@ Here, I apply covariance modeling to explore the relationship between key protei
 
 This project draws on data from my research during my postdoctoral position in the group of Professor Tyson V Sharp, where we investigated the role of the tumor suppressor gene LIMD1 in cancer. LIMD1, along with PHD2 and VHL, plays a role in the proteasomal degradation of HIF1A protein. HIF1A is a transcription factor responsible for the cellular response to low oxygen levels (hypoxia). Loss of LIMD1 leads to stabilization of HIF1A protein and increased transcription of HIF1A-regulated genes. I contributed to a publication that revealed a HIF-1–LIMD1 negative regulatory feedback mechanism in lung cancer:
 
-![HIF‐1–LIMD1-model](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6079541/bin/EMMM-10-e8304-g013.jpg)
+![HIF‐1–LIMD1-model]([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6079541/bin/EMMM-10-e8304-g013.jpg](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/cff6/6079541/2685d6cb2d72/EMMM-10-e8304-g013.jpg))
 
 A HIF–LIMD1 negative feedback mechanism mitigates the pro‐tumorigenic effects of hypoxia - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6079541/
 
