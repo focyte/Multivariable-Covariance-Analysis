@@ -26,7 +26,7 @@ This project draws on data from my research during my postdoctoral position in t
 
 A HIF–LIMD1 negative feedback mechanism mitigates the pro‐tumorigenic effects of hypoxia - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6079541/
 
-In this project, we investigate how proteins in this pathway—HIF1A, PHD2, and LIMD1—contribute to hypoxic gene expression in cell lines from the Cancer Cell Line Encyclopedia (CCLE).
+In this follow-up project here, I investigate how proteins in this pathway—HIF1A, PHD2, and LIMD1—contribute to hypoxic gene expression in cell lines from the Cancer Cell Line Encyclopedia (CCLE) using covariance modeling.
 
 ---
 
